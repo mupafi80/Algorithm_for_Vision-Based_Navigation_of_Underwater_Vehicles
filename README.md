@@ -4,8 +4,8 @@ In this repository, we present a computer vision algorithm designed to estimate 
 This algorithm was developed as part of the master thesis of MSc Isaac Alejandro García Briones (). 
 
 The marker detection in the frame is observer in the following image
-![test_final](https://github.com/user-attachments/assets/c5802405-beb7-4d83-9e83-b94348806fec)
+![test_final](https://github.com/user-attachments/assets/c5802405-beb7-4d83-9e83-b94348806fec =250x250)
 
 
 The relative position estimation on a low-lighr environment is presented below
-![test_dark](https://github.com/user-attachments/assets/411681c5-9ebc-41d4-8b06-269b67089cd3)
+![test_dark](https://github.com/user-attachments/assets/411681c5-9ebc-41d4-8b06-269b67089cd3 =250x250)
