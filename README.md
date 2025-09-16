@@ -1,5 +1,5 @@
 # Algorithm for Vision-Based Navigation of Underwater Vehicles
-In this repository, we present a computer vision algorithm designed to estimate the relative position of a camera in relation to an LED light marker, optimized for observation at short distances in both low-light and bright subaquatic environments. This algorithm was developed as part of the master thesis of MSc Isaac Alejandro García Briones. 
+This repository presents a computer vision algorithm developed to estimate the relative position of a camera in relation to an LED light marker. The algorithm is optimized for short-distance observations in both low-light and bright underwater environments. It was created as part of the master's thesis by MSc Isaac Alejandro García Briones.
 
 The marker detection in the frame is observer in the following image
 
